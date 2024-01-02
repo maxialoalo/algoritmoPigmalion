@@ -33,5 +33,6 @@ Para ejecutar los tests, sigue estos pasos:
 3. Ejecuta los tests desde la clase `AlgoritmoConRecursosEscasosTest` y `AlgoritmoConRecursosInfinitosTest`.
 
 
-###Comentario adicional:
--El texto de arriba lo generé con chatgpt pasándole todos los datos necesarios. La IA me parece una herramienta eficiente que simplifica muchas tareas y lo dejó muy prolijo.
+##Comentario adicional:
+
+- El texto de arriba lo generé con chatgpt pasándole todos los datos necesarios. La IA me parece una herramienta eficiente que simplifica muchas tareas y lo dejó muy prolijo.
