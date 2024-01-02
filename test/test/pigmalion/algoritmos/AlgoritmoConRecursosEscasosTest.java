@@ -4,6 +4,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import pigmalion.algoritmos.AlgoritmoConRecursosEscasos;
+
 public class AlgoritmoConRecursosEscasosTest {
 	AlgoritmoConRecursosEscasos algoritmo= new AlgoritmoConRecursosEscasos();
 	@Test

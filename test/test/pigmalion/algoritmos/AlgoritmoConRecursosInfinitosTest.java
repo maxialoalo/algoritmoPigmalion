@@ -4,6 +4,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import pigmalion.algoritmos.AlgoritmoConRecursosInfinitos;
+
 public class AlgoritmoConRecursosInfinitosTest {
 	AlgoritmoConRecursosInfinitos algoritmo= new AlgoritmoConRecursosInfinitos();
 	

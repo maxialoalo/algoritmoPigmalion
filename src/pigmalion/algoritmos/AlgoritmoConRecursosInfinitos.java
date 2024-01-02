@@ -1,4 +1,4 @@
-package test.pigmalion.algoritmos;
+package pigmalion.algoritmos;
 
 import java.util.HashSet;
 
