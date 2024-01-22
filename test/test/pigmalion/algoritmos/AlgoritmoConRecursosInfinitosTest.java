@@ -23,6 +23,7 @@ public class AlgoritmoConRecursosInfinitosTest {
 	*/
 	public void elAlgoritmoDaTrueSiPuedeFormarElNumero() {		
 		boolean esperado=true;
+		
 		algoritmo.agregarAListaNumeros(1);
 		algoritmo.agregarAListaNumeros(4);
 		algoritmo.agregarAListaNumeros(8);

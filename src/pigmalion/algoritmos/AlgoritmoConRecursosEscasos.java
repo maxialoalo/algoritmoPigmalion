@@ -22,13 +22,10 @@ public class AlgoritmoConRecursosEscasos {
 	}
 	
 	 /*
-     * Al no usar una estructura de datos adicional como hashset, en este caso me
-     * parece más eficiente. Se ordenan los números de menor a mayor y van
-     * recorriendo posiciones dos variables, una de izquierda y la otra al final del
-     * array buscando llegar a la suma requerida. Poder armar una variable o
-     * directamente pasarlo como un parámetro sin necesidad de crear variable también
-     * economiza los recursos. Me parece mejor y más entendible la solución del
-     * hashset, pero en términos de eficiencia creo que esta es un poco mejor.
+     * Verifica si es posible formar la suma requerida usando dos elementos
+     *  del array. Este algoritmo asume que los recursos son limitados, 
+     * por lo que se enfoca en minimizar el tiempo de ejecución.
+     * 
      */
 	
 }
